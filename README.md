@@ -14,5 +14,6 @@ En este curso vemos de todo:
 - Las personalidades múltiples de Freddy
 
 - Creado por mi!!
+-incluye solo ejemplos en windows
 
 Y como un amable recordatorio:**Este readme.md es un chiste**. Diseñado para el ejemplo.
